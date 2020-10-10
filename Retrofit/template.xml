@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<template
+    format="5"
+    revision="3"
+    name="Retrofit"
+    description="Creates Retrofit Model."
+    >
+
+   <category value="Other"/>
+ <parameter
+            id="packageName"
+            name="Root Package Name"
+            type="string"
+            constraints="package"
+            default="com.mycompany.myapp"
+            help="Nothing"
+            />
+   
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+
+</template>

@@ -1,6 +1,8 @@
 # RetrofitTemplate
 Android studio RetrofitTemplate. One click install
 
+It support both android and kotlin langauges.
+
 1. Download above “Retrofit” folder.
 
 2. Copy this folder following the Android Studio path
